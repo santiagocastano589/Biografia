@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    border-radius: 50%;
+    padding: 30px;
+}
+ol{
+    padding: 10px;
+    background-color: aqua;
+}
+h1{
+    background-color: #00e1ff;
+}
